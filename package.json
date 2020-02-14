@@ -1,0 +1,27 @@
+{
+  "name": "cocoa-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokoagency/ramen-box.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kokoagency/ramen-box/issues"
+  },
+  "homepage": "https://github.com/kokoagency/ramen-box#readme",
+  "devDependencies": {
+    "@adonisjs/fold": "^4.0.9"
+  },
+  "dependencies": {
+    "adonis-bumblebee": "^2.1.0",
+    "lodash": "^4.17.15",
+    "lodash-inflection": "^1.5.0"
+  }
+}
